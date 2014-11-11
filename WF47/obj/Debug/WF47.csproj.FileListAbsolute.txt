@@ -13,6 +13,6 @@ D:\Dropbox\WF47\WF47\obj\Debug\WF47.pdb
 D:\Dropbox\WF47\WF47\bin\Debug\WF47.exe
 D:\Dropbox\WF47\WF47\bin\Debug\WF47.pdb
 D:\Dropbox\WF47\WF47\obj\Debug\WF47.csprojResolveAssemblyReference.cache
-D:\Dropbox\WF47\WF47\obj\Debug\WF47.Form1.resources
 D:\Dropbox\WF47\WF47\obj\Debug\WF47.Properties.Resources.resources
 D:\Dropbox\WF47\WF47\obj\Debug\WF47.csproj.GenerateResource.Cache
+D:\Dropbox\WF47\WF47\obj\Debug\WF47.WF47.resources
